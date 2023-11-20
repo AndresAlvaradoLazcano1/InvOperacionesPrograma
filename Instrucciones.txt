@@ -1,0 +1,28 @@
+Programa de Teoría de Colas
+Este programa de Teoría de Colas está diseñado para calcular varios parámetros relacionados con sistemas de colas. Utiliza una interfaz gráfica simple para ingresar valores y mostrar los resultados de los cálculos.
+
+Instrucciones de Uso
+Requisitos Previos
+
+Asegúrate de tener Python instalado en tu sistema.
+Instala el módulo customtkinter ejecutando el siguiente comando: pip install customtkinter
+
+Ejecución del Programa
+
+Ejecuta el archivo Colas I.O.py para iniciar la aplicación.
+Se abrirá una ventana con campos de entrada y un botón "Calcular".
+Ingresar Valores
+
+Completa los campos de entrada con los valores deseados.
+Capacidad de atención del sistema.
+Media de llegada.
+Número de elementos, etc.
+Realizar Cálculos
+
+Haz clic en el botón "Calcular" para realizar los cálculos.
+Los resultados se mostrarán en los campos correspondientes.
+Manejo de Errores
+
+Si se ingresan valores no numéricos, se mostrará un mensaje de error.
+Notas Adicionales
+Este programa utiliza la biblioteca customtkinter, una extensión de tkinter para mejorar la apariencia de la interfaz gráfica.
